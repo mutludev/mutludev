@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Barış Mutlu</h1>
 <h3 align="center">A passionate JavaScript developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mutludev" alt="mutludev" /></a> </p>
-
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [Making git more productive with aliases](https://dev.to/mutludev/making-git-more-productive-with-aliases-jlf)
