@@ -5,6 +5,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Making git more productive with aliases](https://dev.to/mutludev/making-git-more-productive-with-aliases-jlf)
+- [Weird behaviors of javascript: Primitive Types and Reference Types](https://dev.to/mutludev/weird-behaviors-of-javascript-primitive-types-and-reference-types-11gg)
+- [Calculating Total Playlist Time With Vanilla Javascript](https://dev.to/mutludev/calculating-total-playlist-time-with-vanilla-javascript-59ej)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
