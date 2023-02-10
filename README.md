@@ -1,21 +1,24 @@
-<h1 align="center">Hi 👋, I'm Barış Mutlu</h1>
-<h3 align="center">A passionate JavaScript developer</h3>
+Hi 👋 My name is Barış Mutlu
+============================
+Javascript Developer
+--------------------
+Programming is an art and I'm the artist
+* 🌍  I'm based in Turkey
+* 🖥️  See my portfolio at [mutlu.dev](http://mutlu.dev)
+* ✉️  You can contact me at [baris@mutlu.dev](mailto:baris@mutlu.dev)
 
-<h3 align="left">Connect with me:</h3>
+### Skills
+
+
 <p align="left">
-<a href="https://dev.to/mutludev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="mutludev" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mutludev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mutludev" height="30" width="40" /></a>
-</p>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="36" height="36" alt="Express" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a></p>
 
+### Socials<p align="left"> <a href="https://www.github.com/mutludev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/mutludev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
+### Badges
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mutludev&show_icons=true&locale=en&layout=compact&theme=dark" alt="mutludev" /></p>
+<b>My GitHub Stats</b>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mutludev&show_icons=true&locale=en&count_private=true&theme=dark" alt="mutludev" /></p>
+<a href="http://www.github.com/mutludev"><img src="https://github-readme-stats.vercel.app/api?username=mutludev&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="mutludev's GitHub stats" /></a>
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-- [Making git more productive with aliases](https://dev.to/mutludev/making-git-more-productive-with-aliases-jlf)
-- [Weird behaviors of javascript: Primitive Types and Reference Types](https://dev.to/mutludev/weird-behaviors-of-javascript-primitive-types-and-reference-types-11gg)
-- [Calculating Total Playlist Time With Vanilla Javascript](https://dev.to/mutludev/calculating-total-playlist-time-with-vanilla-javascript-59ej)
-<!-- BLOG-POST-LIST:END -->
+<a href="https://github.com/mutludev" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mutludev&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
